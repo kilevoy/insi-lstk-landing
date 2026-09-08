@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850"><title>Термопросечка — схема ТПП по рисунку А.3 ТУ ИНСИ</title><desc>Прорези 75 на 3 мм; продольная перемычка 25 мм; смещение соседних рядов 50 мм; поперечная перемычка 6,5 мм.</desc><rect width="1400" height="850" fill="white"/><defs><clipPath id="metal"><rect x="180" y="205" width="1040" height="535"/></clipPath></defs><style>text{font-family:DejaVu Sans,sans-serif;fill:#20272d}.d{stroke:#20272d;stroke-width:1.25;fill:none}.shape{stroke:#20272d;stroke-width:1.6;fill:white}</style>
+<text x="700" y="57" text-anchor="middle" font-size="31" transform="rotate(0 700 57)">Термопросечка</text>
+<rect x="180" y="205" width="1040" height="535" fill="#f2f4f5"/>
+<g clip-path="url(#metal)">
+<rect class="shape" x="-580" y="265" width="300" height="12"/>
+<rect class="shape" x="-180" y="265" width="300" height="12"/>
+<rect class="shape" x="220" y="265" width="300" height="12"/>
+<rect class="shape" x="620" y="265" width="300" height="12"/>
+<rect class="shape" x="1020" y="265" width="300" height="12"/>
+<rect class="shape" x="1420" y="265" width="300" height="12"/>
+<rect class="shape" x="1820" y="265" width="300" height="12"/>
+<rect class="shape" x="-380" y="303.0" width="300" height="12"/>
+<rect class="shape" x="20" y="303.0" width="300" height="12"/>
+<rect class="shape" x="420" y="303.0" width="300" height="12"/>
+<rect class="shape" x="820" y="303.0" width="300" height="12"/>
+<rect class="shape" x="1220" y="303.0" width="300" height="12"/>
+<rect class="shape" x="1620" y="303.0" width="300" height="12"/>
+<rect class="shape" x="2020" y="303.0" width="300" height="12"/>
+<rect class="shape" x="-580" y="341" width="300" height="12"/>
+<rect class="shape" x="-180" y="341" width="300" height="12"/>
+<rect class="shape" x="220" y="341" width="300" height="12"/>
+<rect class="shape" x="620" y="341" width="300" height="12"/>
+<rect class="shape" x="1020" y="341" width="300" height="12"/>
+<rect class="shape" x="1420" y="341" width="300" height="12"/>
+<rect class="shape" x="1820" y="341" width="300" height="12"/>
+<rect class="shape" x="-380" y="379.0" width="300" height="12"/>
+<rect class="shape" x="20" y="379.0" width="300" height="12"/>
+<rect class="shape" x="420" y="379.0" width="300" height="12"/>
+<rect class="shape" x="820" y="379.0" width="300" height="12"/>
+<rect class="shape" x="1220" y="379.0" width="300" height="12"/>
+<rect class="shape" x="1620" y="379.0" width="300" height="12"/>
+<rect class="shape" x="2020" y="379.0" width="300" height="12"/>
+<rect class="shape" x="-380" y="559.0" width="300" height="12"/>
+<rect class="shape" x="20" y="559.0" width="300" height="12"/>
+<rect class="shape" x="420" y="559.0" width="300" height="12"/>
+<rect class="shape" x="820" y="559.0" width="300" height="12"/>
+<rect class="shape" x="1220" y="559.0" width="300" height="12"/>
+<rect class="shape" x="1620" y="559.0" width="300" height="12"/>
+<rect class="shape" x="2020" y="559.0" width="300" height="12"/>
+<rect class="shape" x="-580" y="597" width="300" height="12"/>
+<rect class="shape" x="-180" y="597" width="300" height="12"/>
+<rect class="shape" x="220" y="597" width="300" height="12"/>
+<rect class="shape" x="620" y="597" width="300" height="12"/>
+<rect class="shape" x="1020" y="597" width="300" height="12"/>
+<rect class="shape" x="1420" y="597" width="300" height="12"/>
+<rect class="shape" x="1820" y="597" width="300" height="12"/>
+<rect class="shape" x="-380" y="635.0" width="300" height="12"/>
+<rect class="shape" x="20" y="635.0" width="300" height="12"/>
+<rect class="shape" x="420" y="635.0" width="300" height="12"/>
+<rect class="shape" x="820" y="635.0" width="300" height="12"/>
+<rect class="shape" x="1220" y="635.0" width="300" height="12"/>
+<rect class="shape" x="1620" y="635.0" width="300" height="12"/>
+<rect class="shape" x="2020" y="635.0" width="300" height="12"/>
+<rect class="shape" x="-580" y="673" width="300" height="12"/>
+<rect class="shape" x="-180" y="673" width="300" height="12"/>
+<rect class="shape" x="220" y="673" width="300" height="12"/>
+<rect class="shape" x="620" y="673" width="300" height="12"/>
+<rect class="shape" x="1020" y="673" width="300" height="12"/>
+<rect class="shape" x="1420" y="673" width="300" height="12"/>
+<rect class="shape" x="1820" y="673" width="300" height="12"/>
+</g>
+<path class="d" d="M180,205 L1220,205"/>
+<path class="d" d="M180,740 L1220,740"/>
+<path class="d" d="M180,205 V465 l-7,7 l14,10 l-7,7 V740"/>
+<path class="d" d="M1220,205 V465 l-7,7 l14,10 l-7,7 V740"/>
+<path class="d" d="M220,265 L220,168"/>
+<path class="d" d="M520,265 L520,168"/>
+<path class="d" d="M220,175 L520,175"/>
+<path fill="#20272d" d="M220,175 l11,2 l0,-4 Z"/>
+<path fill="#20272d" d="M520,175 l-11,-2 l0,4 Z"/>
+<text x="370.0" y="165" text-anchor="middle" font-size="25" transform="rotate(0 370.0 165)">75</text>
+<path class="d" d="M520,265 L520,168"/>
+<path class="d" d="M620,265 L620,168"/>
+<path class="d" d="M520,175 L620,175"/>
+<path fill="#20272d" d="M520,175 l11,2 l0,-4 Z"/>
+<path fill="#20272d" d="M620,175 l-11,-2 l0,4 Z"/>
+<text x="570.0" y="165" text-anchor="middle" font-size="25" transform="rotate(0 570.0 165)">25</text>
+<path class="d" d="M620,265 L620,108"/>
+<path class="d" d="M820,303 L820,108"/>
+<path class="d" d="M620,115 L820,115"/>
+<path fill="#20272d" d="M620,115 l11,2 l0,-4 Z"/>
+<path fill="#20272d" d="M820,115 l-11,-2 l0,4 Z"/>
+<text x="720.0" y="105" text-anchor="middle" font-size="25" transform="rotate(0 720.0 105)">50</text>
+<path class="d" d="M240,265 L115,265"/>
+<path class="d" d="M240,277 L115,277"/>
+<path class="d" d="M132,240 L132,265"/>
+<path class="d" d="M132,277 L132,302"/>
+<path fill="#20272d" d="M132,265 l2,-11 l-4,0 Z"/>
+<path fill="#20272d" d="M132,277 l-2,11 l4,0 Z"/>
+<text x="92" y="280" text-anchor="middle" font-size="25" transform="rotate(0 92 280)">3</text>
+<path class="d" d="M850,277 L970,277"/>
+<path class="d" d="M850,303 L970,303"/>
+<path class="d" d="M950,277 L950,303"/>
+<path fill="#20272d" d="M950,277 l-2,11 l4,0 Z"/>
+<path fill="#20272d" d="M950,303 l2,-11 l-4,0 Z"/>
+<path class="d" d="M960,290 L1010,290"/>
+<text x="1040" y="300" text-anchor="middle" font-size="25" transform="rotate(0 1040 300)">6,5</text>
+<text x="700" y="808" text-anchor="middle" font-size="19" transform="rotate(0 700 808)">Размеры в мм</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="870" viewBox="0 0 900 870" role="img" aria-labelledby="title desc">
+<title id="title">PZ — параметры сечения</title>
+<desc id="desc">H — высота; B₁ и B₂ — полки; C₁ и C₂ — отгибки; t — толщина; R — внутренний радиус.</desc>
+<rect width="900" height="930" fill="white" />
+<style>text{font-family:"Arial,Helvetica,sans-serif",sans-serif;fill:#171717} .thin{stroke:#171717;stroke-width:0.75;fill:none} .dim{font-size:21px} .note{font-size:16px}</style>
+<text x="450" y="48" font-size="28" text-anchor="middle">ПZ</text>
+<path id="section-contour" d="M -69 18 L -69 6 A 6 6 0 0 1 -63 0 L -5 0 A 6 6 0 0 1 1 6 L 1 194 A 4 4 0 0 0 5 198 L 60 198 A 4 4 0 0 0 64 194 L 64 182 L 66 182 L 66 194 A 6 6 0 0 1 60 200 L 5 200 A 6 6 0 0 1 -1 194 L -1 6 A 4 4 0 0 0 -5 2 L -63 2 A 4 4 0 0 0 -67 6 L -67 18 Z" transform="translate(500 170) scale(3)" stroke="#171717" stroke-width="0.6" fill="#e5e5e5" />
+<path class="thin" d="M293,170 L179,170" />
+<path class="thin" d="M515,770 L179,770" />
+<path class="thin" d="M185,170 L185,770" />
+<path fill="#171717" d="M185,170 L183.5,179.0 L186.5,179.0 Z" />
+<path fill="#171717" d="M185,770 L186.5,761.0 L183.5,761.0 Z" />
+<text x="177" y="470.0" font-size="21" text-anchor="middle" transform="rotate(-90 177 470.0)">H</text>
+<path class="thin" d="M293,170 L293,119" />
+<path class="thin" d="M503,188 L503,119" />
+<path class="thin" d="M293,125 L503,125" />
+<path fill="#171717" d="M293,125 L302.0,126.5 L302.0,123.5 Z" />
+<path fill="#171717" d="M503,125 L494.0,123.5 L494.0,126.5 Z" />
+<text x="398.0" y="117" font-size="21" text-anchor="middle">B₁</text>
+<path class="thin" d="M497,752 L497,824" />
+<path class="thin" d="M698,770 L698,824" />
+<path class="thin" d="M497,818 L698,818" />
+<path fill="#171717" d="M497,818 L506.0,819.5 L506.0,816.5 Z" />
+<path fill="#171717" d="M698,818 L689.0,816.5 L689.0,819.5 Z" />
+<text x="597.5" y="810" font-size="21" text-anchor="middle">B₂</text>
+<path class="thin" d="M293,170 L242,170" />
+<path class="thin" d="M293,224 L242,224" />
+<path class="thin" d="M248,170 L248,224" />
+<path fill="#171717" d="M248,170 L246.5,179.0 L249.5,179.0 Z" />
+<path fill="#171717" d="M248,224 L249.5,215.0 L246.5,215.0 Z" />
+<text x="240" y="197.0" font-size="21" text-anchor="middle" transform="rotate(-90 240 197.0)">C₁</text>
+<path class="thin" d="M698,716 L759,716" />
+<path class="thin" d="M698,770 L759,770" />
+<path class="thin" d="M753,716 L753,770" />
+<path fill="#171717" d="M753,716 L751.5,725.0 L754.5,725.0 Z" />
+<path fill="#171717" d="M753,770 L754.5,761.0 L751.5,761.0 Z" />
+<text x="745" y="743.0" font-size="21" text-anchor="middle" transform="rotate(-90 745 743.0)">C₂</text>
+<path class="thin" d="M361,263.0 L410,263.0" />
+<path class="thin" d="M410,263.0 L493.4852813742386,179.51471862576142" />
+<path fill="#171717" d="M493.4852813742386,179.51471862576142 L486.06066017177983,184.8180194846605 L488.1819805153395,186.93933982822017 Z" />
+<text x="361" y="255.0" font-size="21" text-anchor="start">R</text>
+<path class="thin" d="M361,488 L410,488" />
+<path class="thin" d="M410,488 L497,440" />
+<path fill="#171717" d="M497,440 L488.39518482939184,443.03432956016184 L489.8444168581259,445.6610626122422 Z" />
+<text x="361" y="480" font-size="21" text-anchor="start">t</text>
+</svg>
